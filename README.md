@@ -13,3 +13,6 @@ mysql -upucsd -p
 use pucsdStudents
 select * from studentData
 ```
+
+![](./1.png)
+![](./2.png)
